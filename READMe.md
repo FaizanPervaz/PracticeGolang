@@ -30,3 +30,11 @@
    - git add READMe.md
    - git commit -m "Readme Included with Commands" READMe.md
    - git push -u origin main
+   - git checkout dev
+   - git push origin dev
+   - git checkout main
+   - git pull origin main
+   - git merge dev
+   - git commit -m "Merge dev branch into main"
+   - git push origin main
+
