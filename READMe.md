@@ -2,7 +2,7 @@
 
 ## Commands Below
 
-1. **Commands used:**
+**Commands used:**
    - Go to [GitHub](https://github.com/) and create a new repository.
    - Made the reprositry Public.
    - git init
@@ -27,3 +27,6 @@
    - git checkout main
    - git merge dev
    - git push origin main
+   - git add READMe.md
+   - git commit -m "Readme Included with Commands" READMe.md
+   - git push -u origin main
