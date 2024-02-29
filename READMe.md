@@ -40,6 +40,10 @@
    - git push origin main
 
 **Commands Tested:**
-   - git push origin main
+   - git diff
+   - git diff --staged
+   - git log
+   - git diff main...dev
+   - 
    
 
