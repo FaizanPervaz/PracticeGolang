@@ -5,6 +5,7 @@
 **Commands used:**
    - Go to [GitHub](https://github.com/) and create a new repository.
    - Made the reprositry Public.
+   - Didn't need to do setup as already setted the git up
    - git init
    - git status
    - git add block.go
@@ -37,4 +38,8 @@
    - git merge dev
    - git commit -m "Merge dev branch into main"
    - git push origin main
+
+**Commands Tested:**
+   - git push origin main
+   
 
